@@ -1,1 +1,1 @@
-## 没有说明，直接运行文件即可
+## pip install -r requirement.txt
